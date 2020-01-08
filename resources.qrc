@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/res">
+        <file>Images/add.png</file>
+        <file>Images/application_add.png</file>
+        <file>Images/arrow_redo.png</file>
+        <file>Images/arrow_undo.png</file>
+        <file>Images/cut.png</file>
+        <file>Images/save.png</file>
+        <file>Images/information.png</file>
+        <file>Images/page_copy.png</file>
+        <file>Images/page_save.png</file>
+        <file>Images/paste_plain.png</file>
+    </qresource>
+</RCC>
